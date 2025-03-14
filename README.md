@@ -1,5 +1,5 @@
 
-# Biblioteca para Controle de Microfone e Matriz de LEDs na **BitdogLab** com **Raspberry Pi Pico W**
+# Biblioteca para o Microfone na plataforma **BitdogLab** com **Raspberry Pi Pico W**
 
 Esta biblioteca foi desenvolvida para a plataforma **BitdogLab** que utiliza a **Raspberry Pi Pico W (RP2040)**. Ela permite a captura de áudio via microfone, processa as amostras de áudio e controla uma matriz de LEDs **NeoPixel** para exibir visualmente a intensidade do som detectado.
 
